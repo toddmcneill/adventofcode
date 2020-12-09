@@ -1,0 +1,9 @@
+{
+  "name": "advent",
+  "scripts": {
+    "runday": "nodemon runday.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

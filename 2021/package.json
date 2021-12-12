@@ -1,0 +1,9 @@
+{
+  "name": "2021",
+  "scripts": {
+    "day": "nodemon runday.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

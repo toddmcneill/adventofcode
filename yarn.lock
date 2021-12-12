@@ -5,6 +5,22 @@ __metadata:
   version: 4
   cacheKey: 7
 
+"2020@workspace:2020":
+  version: 0.0.0-use.local
+  resolution: "2020@workspace:2020"
+  dependencies:
+    nodemon: ^2.0.6
+  languageName: unknown
+  linkType: soft
+
+"2021@workspace:2021":
+  version: 0.0.0-use.local
+  resolution: "2021@workspace:2021"
+  dependencies:
+    nodemon: ^2.0.6
+  languageName: unknown
+  linkType: soft
+
 "@sindresorhus/is@npm:^0.14.0":
   version: 0.14.0
   resolution: "@sindresorhus/is@npm:0.14.0"
@@ -52,14 +68,6 @@ __metadata:
   checksum: 9f9236a3cc7f56c167be3aa81c77fcab2e08dfb8047b7861b91440f20b299b9442255856bdbe9d408d7e96a0b64a36e1c27384251126962490b4eee841b533e0
   languageName: node
   linkType: hard
-
-"advent@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "advent@workspace:."
-  dependencies:
-    nodemon: ^2.0.6
-  languageName: unknown
-  linkType: soft
 
 "ajv@npm:^6.12.3":
   version: 6.12.6
@@ -1467,6 +1475,12 @@ fsevents@~2.1.2:
   checksum: f0de3e445581e64a8a077af476cc30708e659f5779ec2ca2a161556d0792aa318a685923798ae22055b4ecd02b9aff444ef619578f7af53cf8e0e248031e3dee
   languageName: node
   linkType: hard
+
+"root-workspace-0b6124@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "root-workspace-0b6124@workspace:."
+  languageName: unknown
+  linkType: soft
 
 "safe-buffer@npm:^5.0.1, safe-buffer@npm:^5.1.2":
   version: 5.2.1

@@ -1,9 +1,7 @@
 {
-  "name": "advent",
-  "scripts": {
-    "runday": "nodemon runday.js"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.6"
-  }
+  "private": true,
+  "workspaces": [
+    "2020",
+    "2021"
+  ]
 }
